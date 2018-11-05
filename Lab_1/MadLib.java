@@ -1,6 +1,6 @@
 // Ahmad Turan Naimey
-// CS 136L-002
-// lab 1 - MADLIB
+// CS 136L-001
+// Lab 1 - MadLib
 import java.util.Scanner;
 // Imports Scanner
 // A simple text scanner which can parse primitive types and strings using regular expressions.

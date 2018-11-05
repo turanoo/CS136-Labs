@@ -16,4 +16,16 @@ This program replicates a door and its functionalities. Tester file is included.
 ### Postcard
 This program replicates a postcard sending machine with some methods. Printer class is included.
 ### Vending Machine
-This program replicates a vending machine with some methods. Tester file is included. 
+This program replicates a vending machine with some methods. Tester file is included.
+
+## Lab 4
+This program draws some alphabet letters (I, J, L, O, S, T, & Z) using Java's AWT library.
+
+# Lab 5
+More practice on using Java's AWT library and properly using classes.
+
+# Lab 6
+Replicates a simple Sudoku game with a 9x9 board. **Incomplete**
+
+# Lab 7
+Create a LightsOut board. **Incomplete**
