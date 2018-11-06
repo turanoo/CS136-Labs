@@ -21,11 +21,11 @@ This program replicates a vending machine with some methods. Tester file is incl
 ## Lab 4
 This program draws some alphabet letters (I, J, L, O, S, T, & Z) using Java's AWT library.
 
-# Lab 5
+## Lab 5
 More practice on using Java's AWT library and properly using classes.
 
-# Lab 6
+## Lab 6
 Replicates a simple Sudoku game with a 9x9 board. **Incomplete**
 
-# Lab 7
+## Lab 7
 Create a LightsOut board. **Incomplete**
